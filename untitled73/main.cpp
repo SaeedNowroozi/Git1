@@ -1,8 +1,4 @@
 #include <QCoreApplication>
-#include <iostream>
-#include <QVector>
-#include <QAbstractTableModel>
-
 using namespace std;
 
 int main(int argc, char *argv[])
