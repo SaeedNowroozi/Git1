@@ -1,7 +1,7 @@
 #include <QCoreApplication>
 #include <iostream>
 #include <QVector>
-
+#include <QAbstractTableModel>
 
 using namespace std;
 
